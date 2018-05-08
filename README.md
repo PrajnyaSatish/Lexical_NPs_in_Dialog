@@ -7,3 +7,5 @@ In dialog, the participants rarely use the lexical noun phrase to access the ref
 In this project, I study the reasons for participants in dialog to switch to lexical noun phrases for pronominal phrases. I also want to see if there is any universality in this case and try to predict the minimum number of turns before a subject is reintroduced. My assumption is that, if a subject is reintroduced out of turn, it may lead to confusion in the listener.
 
 Data : Switchboard Corpus at https://catalog.ldc.upenn.edu/docs/LDC97S62/
+
+Switchboard Corpus Parser from http://compprag.christopherpotts.net/swda.html
